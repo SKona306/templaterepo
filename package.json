@@ -1,0 +1,12 @@
+{
+  "name": "project-template",
+  "version": "1.0.0",
+  "description": "* _List all_\r * _the major technologies_\r * _you used in your project_\r * _here_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
